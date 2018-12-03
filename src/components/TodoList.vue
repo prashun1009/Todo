@@ -2,6 +2,7 @@
   <div>
 
   <input type="text" placeholder="edit me">
+  <input type="text" placeholder="edit me">
   todo list goes here
   </div>
 </template>
